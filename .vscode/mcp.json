@@ -1,0 +1,21 @@
+//mcpusingpython (STDIO)
+{
+    "servers": {
+        
+        "calculator-HTTP" : {
+            "command" : "npx",
+            "args": [
+                "mcp-remote",
+                "http://localhost:8002/mcp"
+            ]
+        },
+        "Feed-STDIO" : {
+            "command" : "C:/Users/LENOVO/Documents/Career/Magang/SakuMedis/ClaudeMCP/.venv/Scripts/python.exe",
+            "args": [
+                "mcp_third/feed_mcp.py"
+            ]
+        },
+    }
+}
+
+//httpfastapi
