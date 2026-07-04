@@ -10,7 +10,7 @@
             ]
         },
         "Feed-STDIO" : {
-            "command" : "C:/Users/LENOVO/Documents/Career/Magang/SakuMedis/ClaudeMCP/.venv/Scripts/python.exe",
+            "command" : "C:/path/to/python.exe",
             "args": [
                 "mcp_third/feed_mcp.py"
             ]
